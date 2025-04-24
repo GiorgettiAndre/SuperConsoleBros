@@ -1,0 +1,10 @@
+# Ignora la cartella .vscode
+.vscode/
+
+# Ignora la cartella build
+build/
+
+# Ignora file di compilazione
+*.3dsx
+*.elf
+*.smdh
